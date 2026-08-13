@@ -1,0 +1,1 @@
+Today we are learning file handling in python. After that we are learning functions.
