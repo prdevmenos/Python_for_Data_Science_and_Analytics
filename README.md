@@ -1,8 +1,8 @@
-# 📊 Python Data Analytics Project
+# 📊 Python Data Analytics
 
-## 📌 Project Overview
+## 📌 Overview
 
-This project focuses on analyzing and exploring data using **Python** to identify meaningful patterns, trends, relationships, and insights. The project demonstrates the complete data analytics process, starting from data collection and cleaning to exploratory data analysis, visualization, and deriving actionable insights.
+This focuses on analyzing and exploring data using **Python** to identify meaningful patterns, trends, relationships, and insights. The project demonstrates the complete data analytics process, starting from data collection and cleaning to exploratory data analysis, visualization, and deriving actionable insights.
 
 The analysis is performed using Python libraries such as **Pandas, NumPy, Matplotlib, and Seaborn**. The project is implemented using Jupyter Notebook, making the analysis easy to understand and reproduce.
 
